@@ -1,0 +1,36 @@
+{
+  "killAll": false,
+  "message": "Esta demo privada ya no está disponible. Pide un acceso nuevo al desarrollador.",
+  "access": {
+    "a3bbaaacf5dbb7f336acf9b9ea6205e5fcf87785878f16c198e4d3967f8898e2": {
+      "enabled": true,
+      "rev": 1,
+      "exp": "2026-11-11T01:29:55Z",
+      "note": "Persona 1"
+    },
+    "41447d7f89441819d94245001e771397997d96a567eb8a64b91c95b85c960551": {
+      "enabled": true,
+      "rev": 1,
+      "exp": "2026-11-11T01:29:56Z",
+      "note": "Persona 2"
+    },
+    "37c24c34f4b3b34ff317e51628d3ff5f6f6ed6c1daab53918080bf566d51b48a": {
+      "enabled": true,
+      "rev": 1,
+      "exp": "2026-11-11T01:29:56Z",
+      "note": "Persona 3"
+    },
+    "4b280bb0713fa9fead379f1e14b8eb6779e9a4571c34a69185c1c6e09e3d385d": {
+      "enabled": true,
+      "rev": 1,
+      "exp": "2026-11-11T01:29:56Z",
+      "note": "Persona 4"
+    },
+    "f20788feacd77f7d25d66ff18dacdd2b9d4e8bbff5020436a62ade5ef46670c8": {
+      "enabled": true,
+      "rev": 1,
+      "exp": "2026-11-11T01:29:56Z",
+      "note": "Persona 5"
+    }
+  }
+}
