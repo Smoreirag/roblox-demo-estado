@@ -7,10 +7,12 @@
       "rev": 2,
       "exp": "2027-09-07T01:29:55Z",
       "note": "p1",
-      "devices": [],
+      "devices": [
+        "6992dfbd3a4ba4c7d3be8252ab1625b4396698442c02a0896d1016a36d3456cc"
+      ],
       "maxDevices": 1
     }
   },
-  "seq": 1,
-  "updated": "2026-10-12T02:07:02Z"
+  "seq": 2,
+  "updated": "2026-10-12T03:37:07Z"
 }
